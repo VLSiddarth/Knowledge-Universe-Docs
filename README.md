@@ -22,6 +22,12 @@ pinned: false
 
 ## 📺 See It In Action
 
+**Full 40-Second Official Demo — Installation, API Keys, and Decay Scoring:**
+
+<video src="https://github.com/user-attachments/assets/236cac06-4528-4567-af0e-1f7240490758" controls="controls" muted="muted" width="100%"></video>
+
+`0:00` pip Installation &nbsp;|&nbsp; `0:04` Get API Key using your Email id &nbsp;|&nbsp; `0:10` Set your API in your env &nbsp;|&nbsp; `0:23` Discover sources required by search across 13+ sources  
+
 **Cold Start vs. Cache Hit (3.5s → 14ms):**
 
 <video src="https://github.com/user-attachments/assets/fdeb9439-fa18-4697-abd1-3fc6bb236e31" controls="controls" muted="muted" width="100%"></video>
