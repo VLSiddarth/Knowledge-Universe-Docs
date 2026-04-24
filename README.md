@@ -455,11 +455,11 @@ YOUR APP
    │
    ▼  POST /v1/discover  (X-API-Key header)
 ┌──────────────────────────────────────────────────────────────┐
-│                   KNOWLEDGE UNIVERSE API                      │
+│                   KNOWLEDGE UNIVERSE API                     │
 │                                                              │
 │  Auth + Quota Check (Redis)                                  │
 │    ↓                                                         │
-│  Cache Check (Redis) ──── HIT ──────────→ ~220ms return     │
+│  Cache Check (Redis) ──── HIT ──────────→ ~220ms return      │
 │    ↓ MISS                                                    │
 │  Parallel Crawl (16 crawlers, per-crawler timeouts)          │
 │    ├── arXiv           (25s)  No key needed                  │
